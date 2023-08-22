@@ -1,4 +1,7 @@
 # DSCI404-Uninformed-Search-Find-Path
+###### * Using Python programming language 
+###### * The course project code is not allowed to be published online，but I am happy to share the ideas of implementation and running results of my algorithm!
+
 ![image](https://github.com/pingzhang1004/DSCI404-Uninformed-Search-Find-Path/blob/main/Uninformed_Search_Find_Path.png)
 
 ### Using dictionary data structure to build the tree search framework named city_expanded. There are several steps in this procedure:  
